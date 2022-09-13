@@ -1,4 +1,4 @@
-name = '가운데 글자 가져오기'
+name = '약수의 개수와 덧셈'
 append_suffix = True
 
 
