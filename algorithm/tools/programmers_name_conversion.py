@@ -1,4 +1,4 @@
-name = '약수의 개수와 덧셈'
+name = '최대공약수와 최소공배수'
 append_suffix = True
 
 
