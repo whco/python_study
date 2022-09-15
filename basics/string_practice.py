@@ -6,6 +6,12 @@ def return_type_test(n):
     return "hi"
 
 
+def string_practice():
+    x = "abcd"
+    enumerate(x)
+    s = "try hello  world   ".split(' ')
+    print(s)
+    # return_type_test(1)
 
 if __name__ == '__main__':
-    print(return_type_test(2))
+    print(string_practice())
