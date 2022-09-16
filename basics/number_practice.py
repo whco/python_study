@@ -4,6 +4,12 @@ print(type(math.floor(a)))
 print(type(a // 1))
 print(type(int(a)))
 
+
 b = -1.2
 print(int(b))
 print(b // 1)
+
+c = None
+d = None
+print(c == d)
+print(bool(c))
